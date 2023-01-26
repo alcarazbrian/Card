@@ -111,24 +111,28 @@ a:hover{
 @media (max-width: 650px){
     .container{
         height: 65%;
+        padding: 0 15px;
     }
     .card-container{
         display: flex;
         flex-direction: column-reverse;
         background: linear-gradient(#12a89c, #024945);
         width: 750px;
-        margin-top: 30px;
-        margin-bottom: 30px;
+        margin-top: 15px;
+        margin-bottom: 15px;
     }
     .header img{
         width: 100px;
         height: 100px;
     }
     .header{
-        padding: 20px 0 0 0;
+        padding: 10px 0 0 0;
     }
     .descripcion{
-        padding-top: 5px;
+        padding: 5px 20px 15px 20px;
+    }
+    .descripcion .redes{
+        margin-top: 20px;
     }
 }
 @media (min-width: 320px){
@@ -136,5 +140,6 @@ a:hover{
         display: flex;
         justify-content: center;
         align-items: center;
+        margin-top: 20px;
     }
 }

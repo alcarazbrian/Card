@@ -109,10 +109,14 @@ a:hover{
 
 /* RESPONSIVE */
 @media (max-width: 650px){
+    .container{
+        height: 65%;
+    }
     .card-container{
         display: flex;
         flex-direction: column-reverse;
         background: linear-gradient(#12a89c, #024945);
+        width: 750px;
     }
     .header img{
         width: 130px;

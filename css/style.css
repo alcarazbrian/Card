@@ -61,9 +61,10 @@
     color: #FFFFFF;
 }
 
-.descripcion h4{
+.descripcion h2{
     line-height: 2;
     font-weight: 500;
+    font-size: medium;
 }
 
 .descripcion p{

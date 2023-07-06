@@ -153,10 +153,10 @@ a:hover{
     }
     .descripcion p{
         font-weight: 300;
-        font-size: 16px;
+        font-size: 15px;
     }
     .descripcion .redes{
-        margin-top: 25px;
+        margin-top: 15px;
     }
 }
 @media (min-width: 320px){

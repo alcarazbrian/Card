@@ -57,7 +57,7 @@
 
 .header, .descripcion{
     padding: 30px;
-    text-align: justify;
+    text-align: left;
     color: #FFFFFF;
 }
 
